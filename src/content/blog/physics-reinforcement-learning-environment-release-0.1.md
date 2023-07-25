@@ -18,7 +18,7 @@ Current editor features:
 - Playing the world
 
 # Training
-Currently only Genetic Algorithms have been implemented.
+Currently only genetic algorithms have been implemented.
 For genetic algorithms, you can choose:
 - Number of agents in each generation
 - Number of times to repeat a move: The physics environment currently plays each move for 1/60th of a second. Repeating a move allows the move to be played over a longer duration of time, thus making larger movements likelier (compared to multiple left-right moves, each played over a small duration of time and thus the player only moving a small distance).
@@ -27,9 +27,9 @@ For genetic algorithms, you can choose:
 This project is built in Rust. 
 
 It uses: 
-- Bevy for the game engine
+- bevy for the game engine
 - egui (used by bevy_egui) for the GUI
-- Rapier for physics
+- rapier for physics
 - serde for world serialization/deserialization
 - rfd for file dialogs
 - crossbeam for channels (used in multithreading - the agent is trained on a seperate thread)
