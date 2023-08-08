@@ -4,7 +4,7 @@ description: 'Physics based reinforcement learning environment (Release 0.2)'
 pubDate: 'Aug 8 2023'
 ---
 
-My [physics based reinforcement learning environment with a world editor](https://github.com/ShouvikGhosh2048/physics_reinforcement_learning_environment) had it's [second release](https://github.com/ShouvikGhosh2048/physics_reinforcement_learning_environment/releases/tag/0.2) yesterday.
+My [physics based reinforcement learning environment with a world editor](https://github.com/ShouvikGhosh2048/physics_reinforcement_learning_environment) had it's [0.2 release](https://github.com/ShouvikGhosh2048/physics_reinforcement_learning_environment/releases/tag/0.2) yesterday.
 
 # World editor improvements
 - Option to create a new world
